@@ -2,11 +2,14 @@ import React from 'react';
 
 const ContentContainer = () => (
 
-    <div class="row">
-        <div class="col-12">
-            <div class="content">
+    <div className="row">
+        <div className="col-12">
+            <div className="content">
 
 
+                mapping function here?
+            
+            
             </div>
         </div>
     </div>
