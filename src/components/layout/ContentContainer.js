@@ -1,15 +1,15 @@
 import React from 'react';
+// import MapContent from '../MapContent';
 
-const ContentContainer = () => (
+
+const ContentContainer = (props) => (
 
     <div className="row">
         <div className="col-12">
             <div className="content">
 
+                map content here
 
-                mapping function here?
-            
-            
             </div>
         </div>
     </div>

@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
-import BottomNav from './components/BottomNav';
-import ContentContainer from './components/ContentContainer';
+import Header from './components/layout/Header';
+import BottomNav from './components/layout/BottomNav';
+import ContentContainer from './components/layout/ContentContainer';
 
 function App() {
   return (
